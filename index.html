@@ -7,7 +7,8 @@ layout: default
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% assign sorted_pages = site.posts | sort:"title" %}
+    {% for post in sorted_pages %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

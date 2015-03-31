@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Your First Learning Algorithm: ZeroR!"
-date:   2015-03-31 13:06:31
+title:  "02. Your First Learning Algorithm: ZeroR!"
+date:   2015-03-31 13:02:00
 ---
 ZeroR is our least intelligent algorithm. It does not try to find any relations from the data. It just wants to be right as much as possible by settling on one, but only one result: it simply picks the most common label (i.e. majority class) in the dataset and returns this label for any future instance. 
 

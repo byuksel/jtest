@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "New Terminology: Features, Instances, Labels"
-date:   2015-03-29 13:06:31
+title:  "01. New Terminology: Features, Instances, Labels"
+date:   2015-03-31 13:01:00
 ---
