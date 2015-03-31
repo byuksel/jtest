@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Machine Learning Fish is a fun and brief introduction to machine learning. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+### Story ###
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+These tutorials grew organically as a reference material to my machine learning workshops at numerous colleges (MIT, Yale, Princeton, etc) and hackathons. I would like to extend my gratitude of all the students who had the patience and the ear to learn the material while helping to distill it into its current state.
+
+### Goal ###
+
+My goal is to help introduce many to the wonders of machine learning and artificial intelligence. 
