@@ -39,6 +39,21 @@ $on-laptop:        800px;
     }
 }
 
+// Recommended from http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/
+pre {
+  white-space: pre-wrap;
+}
+pre, pre > code {
+  /* Make more code fit on small screens */
+  font-size: 14px;
+}
+
+@media only screen and (min-width: 481px) {
+  pre, pre > code {
+    /* Bigger font on bigger screens */
+    font-size: 16px;
+  }
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
